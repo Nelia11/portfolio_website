@@ -7,6 +7,15 @@ export const projects = [
     source: 'https://meal-sharing-ulm8.onrender.com/',
     code: 'https://github.com/Nelia11/meal-sharing',
     id: 0
+  },
+  {
+    title: 'E-learning',
+    description: "The E-learning app is an education system that enables mentors to create and offer courses while allowing students to enroll and access these courses. It includes features like user authentication, course creation, content management.",
+      image: '/images/2.png',
+      tags: ['Postgres', 'Firebase', 'Node', 'React', 'Zustand'],
+    source: 'https://erikson-webservice.onrender.com/add-course',
+    code: 'https://github.com/HackYourFuture-CPH/class-25-erikson',
+    id: 1
   }
 ];
 
