@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-learning',
-    description: "The E-learning app facilitates mentors in creating and offering courses, enabling student enrollment and access, with features like user authentication and content management.",
+    description: "E- learning app is a collaborative team project that empowers mentors to create and offer courses, provides student enrollment and access, and features user authentication and content management.",
       image: '/images/2.png',
       tags: ['Postgres', 'Firebase', 'Node', 'React', 'Zustand'],
     source: 'https://erikson-webservice.onrender.com/add-course',
