@@ -7,14 +7,12 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 const Footer = () => {
   return (
     <FooterWrapper>
-      <LinkList>
-        <LinkColumn>
-          <Slogan>Write me an email </Slogan>
-          <LinkItem href="mailto:levit.nelia@icloud.com">
-            levit.nelia@icloud.com
-          </LinkItem>
-        </LinkColumn>
-      </LinkList>
+      <CompanyContainer>
+        <Slogan>Write me an email </Slogan>
+        <LinkItem href="mailto:levit.nelia@icloud.com">
+          levit.nelia@icloud.com
+        </LinkItem>
+      </CompanyContainer>
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Or reach me via</Slogan>

@@ -12,7 +12,7 @@ export const projects = [
     title: 'E-learning',
     description: "E- learning app is a collaborative team project that empowers mentors to create and offer courses, provides student enrollment and access, and features user authentication and content management.",
       image: '/images/2.png',
-      tags: ['Postgres', 'Firebase', 'Node', 'React', 'Zustand'],
+      tags: ['Postgres', 'Firebase', 'Node', 'React'],
     source: 'https://erikson-webservice.onrender.com/add-course',
     code: 'https://github.com/HackYourFuture-CPH/class-25-erikson',
     id: 1
