@@ -12,7 +12,7 @@ const Hero = () => (
         A Full Stack Developer
       </SectionTitle>
       <SectionText>
-        My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and MySQL
+        My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and PostgreSQL
       </SectionText>
       {/* <Button onClick={() => window.location = "https://www.google.dk/?gws_rd=ssl"}>Learn More</Button> */}
     </LeftSection>
