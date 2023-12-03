@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'E-learning',
     description: "E- learning app is a collaborative team project that empowers mentors to create and offer courses, provides student enrollment and access, and features user authentication and content management.",
-      image: '/images/2.png',
+      image: 'images/2.png',
       tags: ['Postgres', 'Firebase', 'Node', 'React'],
     source: 'https://erikson-webservice.onrender.com/add-course',
     code: 'https://github.com/HackYourFuture-CPH/class-25-erikson',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Meal-sharing App',
     description: "Dynamic Full Stack Application for sharing meals built with the PERN stack.  It features meal listings, a reservation system, ratings, reviews, and robust search and filter options for a personalized experience.",
-      image: '/images/1.png',
+      image: 'images/1.png',
       tags: ['Postgres', 'Knex', 'Express', 'React', 'Node'],
     source: 'https://meal-sharing-ulm8.onrender.com/',
     code: 'https://github.com/Nelia11/meal-sharing',
